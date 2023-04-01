@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "KYCAgeCredential": {
-        "@id": "https://raw.githubusercontent.com/Navansh/Polygon_Id/main/kyc-v2.json-ld#KYCAgeCredential",
+        "@id": "https://raw.githubusercontent.com/Navansh/Polygon_Id/main/kyc-v2.jsonld#KYCAgeCredential",
         "@context": {
           "@version": 1.1,
           "@protected": true,
@@ -25,7 +25,7 @@
         }
       },
       "KYCCountryOfResidenceCredential": {
-        "@id": "https://raw.githubusercontent.com/Navansh/Polygon_Id/main/kyc-v2.json-ld#KYCCountryOfResidenceCredential",
+        "@id": "https://raw.githubusercontent.com/Navansh/Polygon_Id/main/kyc-v2.jsonld#KYCCountryOfResidenceCredential",
         "@context": {
           "@version": 1.1,
           "@protected": true,
