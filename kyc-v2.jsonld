@@ -12,14 +12,14 @@
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "kyc-vocab": "https://github.com/iden3/claim-schema-vocab/blob/main/credentials/kyc.md#",
+          "vocab": "https://github.com/Navansh/Polygon_Id/blob/main/kyc-vocab.md#",
           "serialization": "https://github.com/iden3/claim-schema-vocab/blob/main/credentials/serialization.md#",
           "birthday": {
-            "@id": "kyc-vocab:birthday",
+            "@id": "vocab:birthday",
             "@type": "serialization:IndexDataSlotA"
           },
           "documentType": {
-            "@id": "kyc-vocab:documentType",
+            "@id": "vocab:documentType",
             "@type": "serialization:IndexDataSlotB"
           }
         }
@@ -31,14 +31,14 @@
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "kyc-vocab": "https://github.com/iden3/claim-schema-vocab/blob/main/credentials/kyc.md#",
+          "vocab": "https://github.com/Navansh/Polygon_Id/blob/main/kyc-vocab.md#",
           "serialization": "https://github.com/iden3/claim-schema-vocab/blob/main/credentials/serialization.md#",
           "countryCode": {
-            "@id": "kyc-vocab:countryCode",
+            "@id": "vocab:countryCode",
             "@type": "serialization:IndexDataSlotA"
           },
           "documentType": {
-            "@id": "kyc-vocab:documentType",
+            "@id": "vocab:documentType",
             "@type": "serialization:IndexDataSlotB"
           }
         }
