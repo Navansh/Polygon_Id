@@ -17,10 +17,6 @@
           "birthday": {
             "@id": "vocab:birthday",
             "@type": "serialization:IndexDataSlotA"
-          },
-          "documentType": {
-            "@id": "vocab:documentType",
-            "@type": "serialization:IndexDataSlotB"
           }
         }
       },
